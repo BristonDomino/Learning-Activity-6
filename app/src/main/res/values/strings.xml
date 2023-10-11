@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learning Activity 6 Flooring Calculator</string>
+    <string name="result_here">Result here</string>
+    <string name="enter_width">Enter Width</string>
+    <string name="show_result">Show Result</string>
+    <string name="enter_length">Enter Length</string>
+</resources>
